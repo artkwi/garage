@@ -1,0 +1,9 @@
+
+Typ pojazdu:           Motor
+Marka:                 Kawasaki
+Model:                 Ninja
+Rok produkcji:         132
+Przebieg:              434
+Predkosc maksymalna:   110
+Wartosc:               256.8
+Owiewka:               TAK

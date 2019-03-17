@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1464116057 source:c:\users\artur\desktop\studia c++\projekt garaz pob\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<exception>
+	"Samochod.h"
+	"SamochodSportowy.h"
+	"SamochodCiezarowy.h"
+	"Motor.h"
+	"SamochodOsobowy.h"
+
+1464113030 source:c:\users\artur\desktop\studia c++\projekt garaz pob\src\samochod.cpp
+	<fstream>
+	<string>
+	<iostream>
+	"Samochod.h"
+
+1464111223 c:\users\artur\desktop\studia c++\projekt garaz pob\include\samochod.h
+	<string>
+
+1464113604 c:\users\artur\desktop\studia c++\projekt garaz pob\include\samochodsportowy.h
+	"Samochod.h"
+	<iostream>
+	<fstream>
+
+1464114738 source:c:\users\artur\desktop\studia c++\projekt garaz pob\src\samochodsportowy.cpp
+	<iostream>
+	"SamochodSportowy.h"
+
+1464114738 source:c:\users\artur\desktop\studia c++\projekt garaz pob\src\samochodciezarowy.cpp
+	"SamochodCiezarowy.h"
+
+1464114375 c:\users\artur\desktop\studia c++\projekt garaz pob\include\samochodciezarowy.h
+	"Samochod.h"
+	<iostream>
+	<fstream>
+
+1464114738 source:c:\users\artur\desktop\studia c++\projekt garaz pob\src\samochodosobowy.cpp
+	"SamochodOsobowy.h"
+	<iostream>
+
+1464110409 c:\users\artur\desktop\studia c++\projekt garaz pob\include\samochodosobowy.h
+	"Samochod.h"
+	<iostream>
+	<fstream>
+
+1464114898 source:c:\users\artur\desktop\studia c++\projekt garaz pob\src\motor.cpp
+	"Motor.h"
+
+1464114898 c:\users\artur\desktop\studia c++\projekt garaz pob\include\motor.h
+	"Samochod.h"
+	<iostream>
+	<fstream>
+
